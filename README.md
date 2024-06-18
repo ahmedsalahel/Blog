@@ -11,11 +11,7 @@
 
 - Description : this is blog project depend on one owner and administraitor how make posts and there is users how can read this posts
 
-- features & packages :
-- Laravel Breeze
-- spatie media library
-- laravel-translatable
-- mcamara / laravel-localization
+- features & packages : Laravel Breeze _ spatie media library _ laravel-translatable _ mcamara / laravel-localization
 
 ## About Laravel
 
