@@ -11,7 +11,11 @@
 
 - Description : this is blog project depend on one owner and administraitor how make posts and there is users how can read this posts
 
-- features & packages : 
+- features & packages :
+- Laravel Breeze
+- spatie media library
+- laravel-translatable
+- mcamara / laravel-localization
 
 ## About Laravel
 
